@@ -1,27 +1,22 @@
 <!DOCTYPE html>
+<html lang="pt-br">
+     <head>
+          <link rel="stelysheet" href="style.css>
+          <META CHARSET="UTF-8">
+          <title>pagina html</title>
 
-<html>
-<head>
-
-             <LINK REL="STYLESHEET" HREF="STYLE.CSS>
-                  <META CHARSET="UTF-8">
-                  
-<title>pagina html</title>
-
-</head>
-<bory>
-     <h1>capoeiras</h1>
+     </head>
+     <bory>
+          <h1>capoeiras</h1>
          <h2> A impoetancia da capoeira  no brasil></h2>
          
-<p>E dada porque ele representa uma parte cultural,historica e folclorico<p/>
+          <p>E dada porque ele representa uma parte cultural,historica e folclorico<p/>
 
- <p>pois a capoeira e uma expressao artistica afro-brasileira
- que mascara uma luta cheia de alegria,ritual,tradicao e camaradagem
- e que mistura esportes,luta,danca,cultura popular, musica e brincadeira.</P>
- 
- <p>Caracteriza-se por movimentos ageis e complexos, onde sao utilisados os pes 
-as maos e elementos ginastico-acrobaticos.diferencie-se das outras lutas 
-por ser acompanhada de musica.</p>
-</bory>
-         </html>
-         
+          <p>pois a capoeira e uma expressao artistica afro-brasileira
+          que mascara uma luta cheia de alegria,ritual,tradicao e camaradagem
+          e que mistura esportes,luta,danca,cultura popular, musica e brincadeira.</P>
+          
+          <p>Caracteriza-se por movimentos ageis e complexos, onde sao utilisados os pes 
+          as maos e elementos ginastico-acrobaticos.diferencie-se das outras lutas 
+          por ser acompanhada de musica.</p>
+     </bory>       
